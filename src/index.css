@@ -1,5 +1,5 @@
-:root { font-family: Inter, Roboto, "Segoe UI", Arial, sans-serif; color: #1b1b1f; background: #f8f8ff; font-synthesis: none; text-rendering: optimizeLegibility; }
+:root { font-family: Inter, Roboto, "Segoe UI", Arial, sans-serif; color: #f4efff; background: #15121a; font-synthesis: none; text-rendering: optimizeLegibility; color-scheme: dark; }
 * { box-sizing: border-box; }
-body { margin: 0; min-width: 320px; min-height: 100vh; }
+body { margin: 0; min-width: 320px; min-height: 100vh; background: radial-gradient(circle at 50% -15%, #2e2542 0, #15121a 44%, #100e14 100%); }
 button, input, select { font: inherit; }
 button, a { -webkit-tap-highlight-color: transparent; }
