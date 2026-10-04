@@ -1,6 +1,6 @@
 .app-shell { width: min(1160px, calc(100% - 32px)); margin: 0 auto; padding: 44px 0 72px; }
 .topbar { display: flex; align-items: center; gap: 14px; margin-bottom: 32px; }
-.brand-mark { display: grid; place-items: center; width: 48px; height: 48px; border-radius: 16px; color: #fff; background: linear-gradient(135deg, #6750a4, #896ec7); box-shadow: 0 8px 20px #6750a440; font-size: 31px; }
+.brand-mark { width: 52px; height: 52px; object-fit: contain; filter: drop-shadow(0 8px 12px #6750a450); }
 .eyebrow { margin: 0 0 2px; color: #665a80; font-weight: 750; font-size: .72rem; letter-spacing: .12em; }
 h1,h2,h3,p { margin-top: 0; } h1 { margin-bottom: 0; font-size: clamp(1.55rem,3vw,2.15rem); letter-spacing: -.03em; } h2 { margin-bottom: 4px; font-size: 1.25rem; letter-spacing: -.015em; }
 .local-badge { margin-left: auto; border-radius: 99px; padding: 9px 13px; color: #3d3570; background: #ebe7ff; font-size: .79rem; font-weight: 650; }
