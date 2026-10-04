@@ -1,4 +1,4 @@
-# WikiTimer
+# WikiTimers
 
 Minuteries d’enchères locales, sans compte et sans serveur. Chaque navigateur conserve ses propres minuteries et archives dans son stockage local.
 
