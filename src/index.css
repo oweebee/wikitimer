@@ -1,0 +1,5 @@
+:root { font-family: Inter, Roboto, "Segoe UI", Arial, sans-serif; color: #1b1b1f; background: #f8f8ff; font-synthesis: none; text-rendering: optimizeLegibility; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input, select { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
